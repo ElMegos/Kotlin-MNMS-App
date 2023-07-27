@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148525233304",
+    "project_id": "anime-app-62e75",
+    "storage_bucket": "anime-app-62e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148525233304:android:1b78dc5f674e8e84810ced",
+        "android_client_info": {
+          "package_name": "com.example.kotlinanimemangaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148525233304-u40sng2pbqqc6tebctfdh57e1q9ar5g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCymiqiwPYv0l6l5XOdDWEF6etwdMUz5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148525233304-u40sng2pbqqc6tebctfdh57e1q9ar5g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
